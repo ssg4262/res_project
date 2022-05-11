@@ -36,9 +36,9 @@ public class MyOrderDetailAction implements Action {
 		request.setAttribute("beforeSaleTotalMoney", beforeSaleTotalMoney);// 할인되기 전 총금액
 		request.setAttribute("saleTotalMoney", meal_totalmoney);	// 할인된 총 금액
 		
-		request.setAttribute("showPage", "/member/myOrderDetailView.jsp");
 		
-		forward = new ActionForward("mealKit/memberTemplate.jsp", false);
+		
+		forward = new ActionForward("mealKit/memberMealKitDetailView.jsp", false);
 		
 		return forward;
 	}

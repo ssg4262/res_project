@@ -128,6 +128,10 @@
 							<li><a
 								href="${pageContext.request.contextPath}/reservationInfoViewList.RSV"><small><small>예약내역보기
 									</small></small></a></li>
+															<li><a
+								href="${pageContext.request.contextPath}/myOrder.KIOSK"><small><small>밀키트내역보기
+									</small></small></a></li>
+									
 							<li><a
 								href="${pageContext.request.contextPath}/memberView.RC"><small><small>회원정보관리
 									</small></small></a></li>

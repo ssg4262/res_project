@@ -8,7 +8,7 @@ public class Order {
 	private String mEMAIL;/*주문한 사용자의 u_email*/
 	private Date meal_order_date;/*주문한 날짜(하루매출조회)*/
 	private String meal_order_status;/*사용자 모드-상태:order(구매하기-주문한 상태) / 관리자모드 - 상태 : get(주문승인), cancel(주문취소) */
-	private int meal_totalmoney;/*주문한 밀키트 총 금액*/
+	private int meal_totalMoney;/*주문한 밀키트 총 금액*/
 	
 	// 기본생성자
 	public Order() {
@@ -16,14 +16,14 @@ public class Order {
 	}
 
 	public Order(int meal_order_num, String mID, String mEMAIL, Date meal_order_date, String meal_order_status,
-			int meal_totalmoney) {
+			int meal_totalMoney) {
 		super();
 		this.meal_order_num = meal_order_num;
 		this.mID = mID;
 		this.mEMAIL = mEMAIL;
 		this.meal_order_date = meal_order_date;
 		this.meal_order_status = meal_order_status;
-		this.meal_totalmoney = meal_totalmoney;
+		this.meal_totalMoney = meal_totalMoney;
 	}
 
 	public int getMeal_order_num() {
@@ -66,12 +66,12 @@ public class Order {
 		this.meal_order_status = meal_order_status;
 	}
 
-	public int getMeal_totalmoney() {
-		return meal_totalmoney;
+	public int getMeal_totalMoney() {
+		return meal_totalMoney;
 	}
 
-	public void setMeal_totalmoney(int meal_totalmoney) {
-		this.meal_totalmoney = meal_totalmoney;
+	public void setMeal_totalMoney(int meal_totalMoney) {
+		this.meal_totalMoney = meal_totalMoney;
 	}
 	
 	

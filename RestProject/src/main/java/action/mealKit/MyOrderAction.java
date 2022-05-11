@@ -38,10 +38,9 @@ public class MyOrderAction implements Action {
 			ArrayList<Order> myOrderList = myOrderService.getMyOrderList(mID, mEMAIL);
 
 			request.setAttribute("myOrderList", myOrderList);
-			request.setAttribute("showPage", "/member/myOrderView.jsp");
-
-			forward = new ActionForward("mealKit/memberTemplate.jsp", false);
-			//forward = new ActionForward("memberTemplate.jsp", false);
+			
+			forward = new ActionForward("mealKit/memberMealKitView.jsp", false);
+			
 		}
 
 		return forward;
