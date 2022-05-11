@@ -65,7 +65,7 @@ text-decoration: none;
 									<td>${order.mEMAIL}</td>
 									<td>${order.meal_order_date}</td>
 									<td>주문 승인 대기 </td>
-									<td>${order.meal_totalmoney}원</td>
+									<td>${order.meal_totalMoney}원</td>
 								</tr>
 							</c:if>
 						</c:forEach>
@@ -117,7 +117,7 @@ text-decoration: none;
 							<td>${order.mEMAIL}</td>
 							<td>${order.meal_order_date}</td>
 							<td>주문 승인 상태</td>
-							<td>${order.meal_totalmoney}원</td>
+							<td>${order.meal_totalMoney}원</td>
 						</tr>
 					</c:if>
 				</c:forEach>
@@ -171,7 +171,7 @@ text-decoration: none;
 							<td>${order.mEMAIL}</td>
 							<td>${order.meal_order_date}</td>
 							<td>주문 취소</td>
-							<td>${order.meal_totalmoney}원</td>
+							<td>${order.meal_totalMoney}원</td>
 						</tr>
 					</c:if>
 				</c:forEach>

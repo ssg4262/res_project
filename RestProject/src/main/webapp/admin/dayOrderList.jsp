@@ -68,7 +68,7 @@
                      <td>${order.mEMAIL}</td>
                      <td>${order.meal_order_date}</td>
                      <td>주문 승인 대기 상태</td>
-                     <td>${order.meal_totalmoney}원</td>
+                     <td>${order.meal_totalMoney}원</td>
                      <td><!-- order_num으로 주문내역정보를 조회하여 주문상태를 get 또는 cancel로 변경하기 위해  -->
                      <a href="orderGet.ADM?meal_order_num=${order.meal_order_num}">주문승인</a>
                      &nbsp;
@@ -129,7 +129,7 @@
                      <td>${order.mEMAIL}</td>
                      <td>${order.meal_order_date}</td>
                      <td>주문 승인 상태</td>
-                     <td>${order.meal_totalmoney}원</td>
+                     <td>${order.meal_totalMoney}원</td>
                   </tr>
                </c:if>
             </c:forEach>
@@ -185,7 +185,7 @@
                      <td>${order.mEMAIL}</td>
                      <td>${order.meal_order_date}</td>
                      <td>주문 취소</td>
-                     <td>${order.meal_totalmoney}원</td>
+                     <td>${order.meal_totalMoney}원</td>
                   </tr>
                </c:if>
             </c:forEach>
