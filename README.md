@@ -24,7 +24,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
 |:---|:---:|---:|
 |고승범|https://github.com/ssg4262 , https://github.com/japppps|백엔드|
 |배수철|https://github.com/suchulbae/|백엔드|
-|박병건|||
+|박병건||백엔드|
 
 # 기술스텍🔨
 
@@ -62,7 +62,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
   </tr>
       <tr>
     <td>박병건</td> 
-         <td><h4>백앤드:</h4> <br>
+         <td><h4>백앤드:</h4> 리뷰게시판 일부,회원수정  <br>
        <h4>프론트앤드: </h4>로그인css,로그아웃css
       </td> 
   </tr>
