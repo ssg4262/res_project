@@ -77,6 +77,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
   </tr>
 </table>
 
-
+# 예약파트 유효성 검사한 부분 (고승범)
+![자바 예약한시간전불가](https://user-images.githubusercontent.com/102967026/167987148-b13fa8c5-41c8-4599-9b83-c65950306161.jpg)
 
 
