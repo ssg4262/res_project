@@ -24,7 +24,16 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
 |:---|:---:|---:|
 |고승범|https://github.com/ssg4262 , https://github.com/japppps|백엔드|
 |배수철|https://github.com/suchulbae/|백엔드|
-|박병건||백엔드|
+|박병건|https://github.com/jgom88/|백엔드|
+
+# 제작일정기간 ⌨️
+
+![image](https://user-images.githubusercontent.com/102967026/167982568-879c4214-95cd-4243-a337-bee49cab1866.png)
+
+
+
+
+
 
 # 기술스텍🔨
 
@@ -67,3 +76,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
       </td> 
   </tr>
 </table>
+
+
+
+
