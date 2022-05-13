@@ -26,7 +26,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
 |배수철|https://github.com/suchulbae/|백엔드|
 |박병건|https://github.com/jgom88/|백엔드|
 
-# 제작일정기간 ⌨️
+# 제작일정기간 📅
 
 ![image](https://user-images.githubusercontent.com/102967026/167982568-879c4214-95cd-4243-a337-bee49cab1866.png)
 
@@ -48,7 +48,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
 |GIT|형상관리|
 <br>
 
-# 제작파트 ⌨️
+# 제작파트 🖥
 <table>
        <tr>
         <th>이름</th>
@@ -77,7 +77,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
   </tr>
 </table>
 
-# 예약파트 유효성 검사한 부분 (고승범)🔥🔥
+# 예약파트 유효성 검사한 부분 (고승범)🔍🔥🔥
 
 ![자바 예약한시간전불가](https://user-images.githubusercontent.com/102967026/167987148-b13fa8c5-41c8-4599-9b83-c65950306161.jpg)
 
