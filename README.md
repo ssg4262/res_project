@@ -71,7 +71,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
   </tr>
       <tr>
     <td>박병건</td> 
-         <td><h4>백앤드:</h4> 리뷰게시판 일부,회원수정  <br>
+         <td><h4>백앤드:</h4>   <br>
        <h4>프론트앤드: </h4>로그인 CSS,회원관리 CSS
       </td> 
   </tr>
